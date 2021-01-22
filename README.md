@@ -62,7 +62,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 ## Step 3: Install Redis
 
-* Click on the search section at the top of the main page, type Redis, and click on it.
+* Click on the search section at the top of the main page, type Redis, and click on _Redis Packaged by Bitnami_.
 
 ![Screenshot](Redis1.PNG)
 
